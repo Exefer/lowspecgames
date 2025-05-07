@@ -8,8 +8,8 @@
 
   const { spec }: SpecCardProps = $props();
 
-  const visibleGenres = spec.genres.slice(0, 3);
-  const remainingGenres = spec.genres.length - visibleGenres.length;
+  const visibleGenres = $derived(spec.genres.slice(0, 3));
+  const remainingGenres = $derived(spec.genres.length - visibleGenres.length);
 </script>
 
 <div
@@ -22,7 +22,7 @@
         {spec.title}
       </p>
       <p title={spec.genres.join(", ")}>
-        {visibleGenres.join(", ")}
+        {visibleGenres.join(", ") || "N/A"}
         {#if remainingGenres > 0}
           +{remainingGenres}
         {/if}
