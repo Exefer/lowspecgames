@@ -1,0 +1,19 @@
+<script lang="ts">
+  import { cn } from "@/utils";
+  import { DropdownMenu as DropdownMenuPrimitive } from "bits-ui";
+
+  let {
+    ref = $bindable(null),
+    class: className,
+    inset,
+    ...restProps
+  }: DropdownMenuPrimitive.GroupHeadingProps & {
+    inset?: boolean;
+  } = $props();
+</script>
+
+<DropdownMenuPrimitive.GroupHeading
+  bind:ref
+  class={cn("px-2 pb-0.5 pt-1.5 text-sm font-semibold", inset && "pl-8", className)}
+  {...restProps}
+/>

@@ -3,32 +3,66 @@
   import { Input } from "@/components/ui/input";
   import * as Pagination from "@/components/ui/pagination";
   import { ITEMS_PER_PAGE, uf } from "@/constants";
+  import { searchState } from "@/shared.svelte";
   import lowspec from "@lowspec/data.json";
+  import FilterSection, { type FilterSectionProps } from "./filter-section.svelte";
   import SpecCard from "./spec-card.svelte";
 
-  let search = $state({ value: "" });
-  let currentPage = $state<number>(1);
+  const getReleaseYear = (date: string | Date) => String(new Date(date).getFullYear());
 
   const haystack = lowspec.map(spec => spec.title);
 
   const searchResults = $derived.by(() => {
-    if (!search.value) return lowspec;
+    const results = searchState.title
+      ? (uf.filter(haystack, searchState.title)?.map(i => lowspec[i]) ?? [])
+      : lowspec;
 
-    const idxs = uf.filter(haystack, search.value)!;
+    return results.filter(spec => {
+      const year = getReleaseYear(spec.releaseDate);
 
-    return idxs.map(index => lowspec[index]);
+      const matchesGenres =
+        searchState.genres.size === 0 ||
+        [...searchState.genres].every(g => spec.genres.includes(g));
+
+      const matchesYear =
+        searchState.releaseDates.size === 0 || searchState.releaseDates.has(year);
+
+      return matchesGenres && matchesYear;
+    });
   });
 
   const totalPages = $derived(Math.ceil(searchResults.length / ITEMS_PER_PAGE));
-  const startIndex = $derived((currentPage - 1) * ITEMS_PER_PAGE);
+  const startIndex = $derived((searchState.page - 1) * ITEMS_PER_PAGE);
   const endIndex = $derived(
-    currentPage === totalPages ? searchResults.length : startIndex + ITEMS_PER_PAGE
+    searchState.page === totalPages ? searchResults.length : startIndex + ITEMS_PER_PAGE
   );
   const paginatedSearchResults = $derived(searchResults.slice(startIndex, endIndex));
 
+  const filters: FilterSectionProps[] = [
+    {
+      title: "Genres",
+      key: "genres",
+      items: Array.from(new Set(lowspec.flatMap(spec => spec.genres))),
+    },
+    {
+      title: "Release Date",
+      key: "releaseDates",
+      items: Array.from(
+        new Set(lowspec.flatMap(spec => new Date(spec.releaseDate).getFullYear()))
+      )
+        .filter(Boolean)
+        .sort((a, b) => a - b)
+        .map(String),
+      hasFilterInput: false,
+    },
+  ];
+
   $effect(() => {
-    if (search.value) currentPage = 1;
+    searchState.title;
+    searchState.page = 1;
   });
+
+  $inspect(searchState.page);
 </script>
 
 <main class="flex flex-col gap-4 p-4">
@@ -36,12 +70,17 @@
     <h1 class="text-3xl font-bold">Low Spec Games</h1>
     <ThemeToggle />
   </div>
-  <div class="flex gap-2">
+  <div class="flex flex-col gap-2 md:flex-row">
     <Input
-      bind:value={search.value}
+      bind:value={searchState.title}
       placeholder="Search..."
       class="border border-primary"
     />
+    <div class="flex gap-2">
+      {#each filters as filter}
+        <FilterSection {...filter} />
+      {/each}
+    </div>
   </div>
   {#if paginatedSearchResults.length > 0}
     <div class="grid grid-cols-[repeat(auto-fill,minmax(300px,1fr))] gap-4">
@@ -49,9 +88,9 @@
         <SpecCard {spec} />
       {/each}
     </div>
-  {:else if search.value}
+  {:else if searchState.title}
     <p class="mt-4 text-center text-muted-foreground">
-      No results found for "<strong>{search.value}</strong>"
+      No results found for "<strong>{searchState.title}</strong>"
     </p>
   {:else}
     <p class="mt-4 text-center text-muted-foreground">No results to show.</p>
@@ -61,7 +100,7 @@
     <Pagination.Root
       count={searchResults.length}
       perPage={ITEMS_PER_PAGE}
-      bind:page={currentPage}
+      bind:page={searchState.page}
       onPageChange={() => window.scrollTo({ top: 0, left: 0, behavior: "smooth" })}
     >
       {#snippet children({ pages, currentPage })}
