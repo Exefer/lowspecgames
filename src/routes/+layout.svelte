@@ -8,7 +8,7 @@
   const metadata = {
     title: "Low Spec Games",
     description: "A list of games that run on low-end PCs",
-    url: "https://lowspecgames.exefer.xyz",
+    url: "https://exefer.github.io/lowspecgames/",
     image: "",
     author: "Exefer",
     keywords: "low-end, steam, games",
