@@ -62,6 +62,7 @@
       count={searchResults.length}
       perPage={ITEMS_PER_PAGE}
       bind:page={currentPage}
+      onPageChange={() => window.scrollTo({ top: 0, left: 0, behavior: "smooth" })}
     >
       {#snippet children({ pages, currentPage })}
         <p class="mt-2">
