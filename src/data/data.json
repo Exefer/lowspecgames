@@ -6089,5 +6089,384 @@
     "genres": ["Action", "Indie"],
     "releaseDate": "Jun 7, 2017",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/603960/header.jpg?t=1572307321"
+  },
+  {
+    "id": "320110",
+    "title": "Train Town",
+    "genres": ["Casual"],
+    "releaseDate": "Aug 26, 2014",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/320110/header.jpg?t=1560920368"
+  },
+  {
+    "id": "1055540",
+    "title": "A Short Hike",
+    "genres": ["Adventure", "Indie"],
+    "releaseDate": "Jul 30, 2019",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1055540/header.jpg?t=1626188953"
+  },
+  {
+    "id": "1610900",
+    "title": "The Genesis Project",
+    "genres": ["Adventure", "Free to Play", "RPG", "Simulation", "Early Access"],
+    "releaseDate": "Apr 13, 2022",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1610900/header.jpg?t=1651843730"
+  },
+  {
+    "id": "10120",
+    "title": "Aces of the Galaxy™",
+    "genres": ["Action", "Casual"],
+    "releaseDate": "Jul 23, 2009",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/10120/header.jpg?t=1534443559"
+  },
+  {
+    "id": "221380",
+    "title": "Age of Empires II (2013)",
+    "genres": ["Strategy"],
+    "releaseDate": "Apr 9, 2013",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/221380/header.jpg?t=1620144521"
+  },
+  {
+    "id": "201490",
+    "title": "Airline Tycoon 2",
+    "genres": ["Simulation", "Strategy"],
+    "releaseDate": "Oct 24, 2011",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/201490/header.jpg?t=1644232048"
+  },
+  {
+    "id": "630",
+    "title": "Alien Swarm",
+    "genres": ["Action"],
+    "releaseDate": "Jul 19, 2010",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/630/header.jpg?t=1571757378"
+  },
+  {
+    "id": "1359850",
+    "title": "Zombies Must Die",
+    "genres": ["Action"],
+    "releaseDate": "Sep 1, 2020",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1359850/header.jpg?t=1600251030"
+  },
+  {
+    "id": "955410",
+    "title": "Armoured Alliance",
+    "genres": ["Action", "Strategy"],
+    "releaseDate": "Feb 8, 2019",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/955410/header.jpg?t=1555769631"
+  },
+  {
+    "id": "115210",
+    "title": "American Conquest",
+    "genres": ["Strategy"],
+    "releaseDate": "Aug 26, 2011",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/115210/header.jpg?t=1568742372"
+  },
+  {
+    "id": "2761610",
+    "title": "Creator of Another World",
+    "genres": ["Indie", "RPG"],
+    "releaseDate": "Apr 30, 2024",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2761610/header.jpg?t=1714757701"
+  },
+  {
+    "id": "24420",
+    "title": "Aquaria",
+    "genres": ["Indie"],
+    "releaseDate": "Dec 15, 2008",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/24420/header.jpg?t=1447351632"
+  },
+  {
+    "id": "2153050",
+    "title": "Clutter's Greatest Hits - Collector's Edition",
+    "genres": ["Casual", "Indie"],
+    "releaseDate": "Dec 7, 2022",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2153050/header.jpg?t=1670428880"
+  },
+  {
+    "id": "48173",
+    "title": "Assassin's Creed 2",
+    "genres": ["Action", "Adventure"],
+    "releaseDate": "Mar 9, 2010",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/33230/header.jpg?t=1631289682"
+  },
+  {
+    "id": "887060",
+    "title": "Asterix & Obelix XXL 2",
+    "genres": ["Action", "Adventure"],
+    "releaseDate": "Nov 28, 2018",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/887060/header.jpg?t=1623765478"
+  },
+  {
+    "id": "2227700",
+    "title": "AstroDrop",
+    "genres": ["Action", "Adventure", "Indie"],
+    "releaseDate": "Dec 9, 2022",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2227700/header.jpg?t=1670604823"
+  },
+  {
+    "id": "898920",
+    "title": "Axis & Allies 1942 Online",
+    "genres": ["Strategy"],
+    "releaseDate": "Nov 9, 2021",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/898920/header.jpg?t=1646668446"
+  },
+  {
+    "id": "31290",
+    "title": "Back to the Future: The Game",
+    "genres": ["Adventure"],
+    "releaseDate": "Dec 23, 2010",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/31290/header.jpg?t=1542232304"
+  },
+  {
+    "id": "384960",
+    "title": "Vengeance",
+    "genres": ["Action", "Casual", "Indie", "Strategy"],
+    "releaseDate": "Apr 29, 2020",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/384960/header.jpg?t=1656116692"
+  },
+  {
+    "id": "6870",
+    "title": "Battlestations: Midway",
+    "genres": ["Action"],
+    "releaseDate": "Mar 15, 2007",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/6870/header.jpg?t=1592490116"
+  },
+  {
+    "id": "3598130",
+    "title": "Big Rigs: Over the Road Racing",
+    "genres": ["Action", "Adventure", "Racing"],
+    "releaseDate": "Apr 8, 2025",
+    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3598130/9246a1154a6af6af07a3eac9dd6e7dbf07504b0d/header.jpg?t=1744480378"
+  },
+  {
+    "id": "262960",
+    "title": "Castle In The Darkness",
+    "genres": ["Action", "Adventure", "Indie", "RPG"],
+    "releaseDate": "Feb 5, 2015",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/262960/header.jpg?t=1591751532"
+  },
+  {
+    "id": "2344520",
+    "title": "Diablo® IV",
+    "genres": ["Action", "RPG"],
+    "releaseDate": "Oct 17, 2023",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2344520/header.jpg?t=1701194709"
+  },
+  {
+    "id": "1922730",
+    "title": "The Original Wizard",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy",
+      "Early Access"
+    ],
+    "releaseDate": "Mar 24, 2023",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1922730/header.jpg?t=1679671678"
+  },
+  {
+    "id": "570",
+    "title": "Dota 2",
+    "genres": ["Action", "Free to Play", "Strategy"],
+    "releaseDate": "Jul 9, 2013",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg?t=1658774750"
+  },
+  {
+    "id": "2074120",
+    "title": "Drive",
+    "genres": ["Casual", "Racing", "Sports"],
+    "releaseDate": "Mar 22, 2025",
+    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074120/header.jpg?t=1742666831"
+  },
+  {
+    "id": "351640",
+    "title": "Eternal Senia",
+    "genres": ["Action", "Free to Play", "Indie", "RPG"],
+    "releaseDate": "Jun 18, 2015",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/351640/header.jpg?t=1572504131"
+  },
+  {
+    "id": "3710",
+    "title": "Judge Dredd: Dredd vs. Death",
+    "genres": ["Action"],
+    "releaseDate": "Mar 26, 2009",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/3710/header.jpg?t=1579791442"
+  },
+  {
+    "id": "2220280",
+    "title": "Code Wizard: Java Edition",
+    "genres": ["Casual", "Indie", "RPG"],
+    "releaseDate": "Mar 1, 2024",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2220280/header.jpg?t=1709289294"
+  },
+  {
+    "id": "1846380",
+    "title": "Need for Speed™ Unbound",
+    "genres": ["Action", "Racing"],
+    "releaseDate": "Dec 1, 2022",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1846380/header.jpg?t=1669984763"
+  },
+  {
+    "id": "207530",
+    "title": "Noitu Love 2: Devolution",
+    "genres": ["Action", "Indie"],
+    "releaseDate": "Apr 23, 2012",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/207530/header.jpg?t=1479398176"
+  },
+  {
+    "id": "266210",
+    "title": "One Way Heroics",
+    "genres": ["Indie", "RPG"],
+    "releaseDate": "Feb 28, 2014",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/266210/header.jpg?t=1592543513"
+  },
+  {
+    "id": "211203",
+    "title": "Phantasy Star II",
+    "genres": [],
+    "releaseDate": "May 2, 2012",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/211203/header.jpg?t=1549028548"
+  },
+  {
+    "id": "2200",
+    "title": "Quake III Arena",
+    "genres": ["Action"],
+    "releaseDate": "Aug 3, 2007",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2200/header.jpg?t=1658413893"
+  },
+  {
+    "id": "1067220",
+    "title": "RoboCo",
+    "genres": ["Indie", "Simulation", "Early Access"],
+    "releaseDate": "Nov 3, 2022",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1067220/header.jpg?t=1667583439"
+  },
+  {
+    "id": "200940",
+    "title": "Sonic CD",
+    "genres": [],
+    "releaseDate": "Jan 19, 2012",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/200940/header.jpg?t=1653084020"
+  },
+  {
+    "id": "2651280",
+    "title": "Marvel's Spider-Man 2",
+    "genres": ["Action", "Adventure"],
+    "releaseDate": "Jan 30, 2025",
+    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1738343995"
+  },
+  {
+    "id": "1232100",
+    "title": "BroodStar",
+    "genres": ["Action", "Adventure", "Indie"],
+    "releaseDate": "Jun 15, 2022",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1232100/header.jpg?t=1655301124"
+  },
+  {
+    "id": "855850",
+    "title": "Space Elite Force",
+    "genres": ["Action", "Casual", "Indie"],
+    "releaseDate": "May 17, 2018",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/855850/header.jpg?t=1657320652"
+  },
+  {
+    "id": "3047420",
+    "title": "Wanted",
+    "genres": ["Free To Play"],
+    "releaseDate": "Aug 1, 2024",
+    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047420/header.jpg?t=1722561341"
+  },
+  {
+    "id": "440",
+    "title": "Team Fortress 2",
+    "genres": ["Action", "Free to Play"],
+    "releaseDate": "Oct 10, 2007",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/440/header.jpg?t=1592263852"
+  },
+  {
+    "id": "279720",
+    "title": "The I of the Dragon",
+    "genres": ["RPG"],
+    "releaseDate": "Mar 6, 2015",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/279720/header.jpg?t=1577607281"
+  },
+  {
+    "id": "851100",
+    "title": "Touhou Luna Nights",
+    "genres": ["Action", "Adventure", "Indie"],
+    "releaseDate": "Feb 25, 2019",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/851100/header.jpg?t=1646218660"
+  },
+  {
+    "id": "405820",
+    "title": "Turok",
+    "genres": ["Action", "Adventure"],
+    "releaseDate": "Dec 17, 2015",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/405820/header.jpg?t=1591116079"
+  },
+  {
+    "id": "70300",
+    "title": "VVVVVV",
+    "genres": ["Action", "Indie"],
+    "releaseDate": "Sep 7, 2010",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/70300/header.jpg?t=1630337860"
+  },
+  {
+    "id": "21010",
+    "title": "Watchmen: The End is Nigh",
+    "genres": ["Action"],
+    "releaseDate": "Mar 4, 2009",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/21010/header.jpg?t=1447351702"
+  },
+  {
+    "id": "543260",
+    "title": "Wonder Boy: The Dragon's Trap",
+    "genres": ["Action", "Adventure", "Indie"],
+    "releaseDate": "Jun 8, 2017",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/543260/header.jpg?t=1629963784"
+  },
+  {
+    "id": "223810",
+    "title": "Ys I & II Chronicles+",
+    "genres": ["Action", "Adventure", "RPG"],
+    "releaseDate": "Feb 14, 2013",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/223810/header.jpg?t=1624576213"
+  },
+  {
+    "id": "207350",
+    "title": "Ys Origin",
+    "genres": ["Action", "Adventure", "RPG"],
+    "releaseDate": "May 31, 2012",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/207350/header.jpg?t=1624576741"
+  },
+  {
+    "id": "312540",
+    "title": "Ys VI: The Ark of Napishtim",
+    "genres": ["Action", "Adventure", "RPG"],
+    "releaseDate": "Apr 28, 2015",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/312540/header.jpg?t=1624576503"
+  },
+  {
+    "id": "207320",
+    "title": "Ys: The Oath in Felghana",
+    "genres": ["Action", "Adventure", "RPG"],
+    "releaseDate": "Mar 19, 2012",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/207320/header.jpg?t=1624577314"
+  },
+  {
+    "id": "11020",
+    "title": "TrackMania Nations Forever",
+    "genres": ["Racing"],
+    "releaseDate": "Apr 16, 2008",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/11020/header.jpg?t=1548090419"
+  },
+  {
+    "id": "1771980",
+    "title": "The Operator",
+    "genres": ["Adventure", "Indie", "Simulation"],
+    "releaseDate": "Jul 22, 2024",
+    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/header.jpg?t=1722459302"
   }
 ]
