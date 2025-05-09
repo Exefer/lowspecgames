@@ -1,11 +1,16 @@
 <script lang="ts">
   import ThemeToggle from "@/components/theme-toggle.svelte";
+  import { Badge } from "@/components/ui/badge";
   import { Input } from "@/components/ui/input";
   import * as Pagination from "@/components/ui/pagination";
   import { ITEMS_PER_PAGE, uf } from "@/constants";
   import { searchState } from "@/shared.svelte";
   import lowspec from "@lowspec/data.json";
-  import FilterSection, { type FilterSectionProps } from "./filter-section.svelte";
+  import X from "@lucide/svelte/icons/x";
+  import FilterSection, {
+    type FilterSectionKey,
+    type FilterSectionProps,
+  } from "./filter-section.svelte";
   import SpecCard from "./spec-card.svelte";
 
   const getReleaseYear = (date: string | Date) => String(new Date(date).getFullYear());
@@ -59,12 +64,12 @@
     },
   ];
 
+  const filterKeys: FilterSectionKey[] = ["genres", "releaseDates"];
+
   $effect(() => {
     searchState.title;
     searchState.page = 1;
   });
-
-  $inspect(searchState.page);
 </script>
 
 <main class="flex flex-col gap-4 p-4">
@@ -84,6 +89,26 @@
       {/each}
     </div>
   </div>
+
+  {#if filterKeys.some(key => searchState[key].size > 0)}
+    <div class="flex flex-wrap gap-2">
+      {#each filterKeys as key}
+        {#if searchState[key].size > 0}
+          {#each searchState[key] as item}
+            <Badge class="select-none gap-0.5 text-sm">
+              <span>{item}</span>
+              <X
+                size="16"
+                class="cursor-pointer"
+                onclick={() => searchState[key].delete(item)}
+              />
+            </Badge>
+          {/each}
+        {/if}
+      {/each}
+    </div>
+  {/if}
+
   {#if paginatedSearchResults.length > 0}
     <div class="grid grid-cols-[repeat(auto-fill,minmax(300px,1fr))] gap-4">
       {#each paginatedSearchResults as spec}

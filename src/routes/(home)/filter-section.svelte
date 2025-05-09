@@ -5,7 +5,7 @@
   import { searchState } from "@/shared.svelte";
   import ArrowUpDown from "@lucide/svelte/icons/arrow-up-down";
 
-  type FilterSectionKey = "genres" | "releaseDates";
+  export type FilterSectionKey = "genres" | "releaseDates";
 
   export interface FilterSectionProps {
     title: string;
