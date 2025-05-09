@@ -45,7 +45,11 @@
       {/if}
       {#if hasFilter}
         <div class="p-1">
-          <Input class="border border-primary" bind:value={search} placeholder="Filter..."
+          <Input
+            class="border border-primary"
+            bind:value={search}
+            placeholder="Filter..."
+            autofocus={false}
             >Filter
           </Input>
         </div>
