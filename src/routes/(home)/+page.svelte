@@ -42,7 +42,9 @@
     {
       title: "Genres",
       key: "genres",
-      items: Array.from(new Set(lowspec.flatMap(spec => spec.genres))),
+      items: Array.from(new Set(lowspec.flatMap(spec => spec.genres))).sort((a, b) =>
+        a.localeCompare(b)
+      ),
     },
     {
       title: "Release Date",
