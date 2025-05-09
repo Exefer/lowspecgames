@@ -30,9 +30,6 @@
   <DropdownMenu.Trigger
     class={[buttonVariants({ variant: "outline" }), "flex-1 border border-primary"]}
     >{title}
-    {#if selectedItemsCount > 0}
-      ({selectedItemsCount})
-    {/if}
     <ArrowUpDown />
   </DropdownMenu.Trigger>
   <DropdownMenu.Content
