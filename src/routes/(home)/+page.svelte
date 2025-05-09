@@ -93,18 +93,16 @@
   {#if filterKeys.some(key => searchState[key].size > 0)}
     <div class="flex flex-wrap gap-2">
       {#each filterKeys as key}
-        {#if searchState[key].size > 0}
-          {#each searchState[key] as item}
-            <Badge class="select-none gap-0.5 text-sm">
-              <span>{item}</span>
-              <X
-                size="16"
-                class="cursor-pointer"
-                onclick={() => searchState[key].delete(item)}
-              />
-            </Badge>
-          {/each}
-        {/if}
+        {#each searchState[key] as item}
+          <Badge class="select-none gap-0.5 text-sm">
+            <span>{item}</span>
+            <X
+              size="16"
+              class="cursor-pointer"
+              onclick={() => searchState[key].delete(item)}
+            />
+          </Badge>
+        {/each}
       {/each}
     </div>
   {/if}
