@@ -1,6 +1,6 @@
 import uFuzzy from "@leeoniya/ufuzzy";
 
-export const ITEMS_PER_PAGE = 20;
+export const ITEMS_PER_PAGE_OPTIONS = [10, 20, 50, 100];
 
 // See https://github.com/leeoniya/uFuzzy#options
 export const uf = new uFuzzy({

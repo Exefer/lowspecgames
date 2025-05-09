@@ -3,7 +3,7 @@
   import { Badge } from "@/components/ui/badge";
   import { Input } from "@/components/ui/input";
   import * as Pagination from "@/components/ui/pagination";
-  import { ITEMS_PER_PAGE, uf } from "@/constants";
+  import { uf } from "@/constants";
   import { searchState } from "@/shared.svelte";
   import lowspec from "@lowspec/data.json";
   import X from "@lucide/svelte/icons/x";
@@ -11,6 +11,7 @@
     type FilterSectionKey,
     type FilterSectionProps,
   } from "./filter-section.svelte";
+  import SearchSettings from "./search-settings.svelte";
   import SpecCard from "./spec-card.svelte";
 
   const getReleaseYear = (date: string) => String(new Date(date).getFullYear());
@@ -36,10 +37,12 @@
     });
   });
 
-  const totalPages = $derived(Math.ceil(searchResults.length / ITEMS_PER_PAGE));
-  const startIndex = $derived((searchState.page - 1) * ITEMS_PER_PAGE);
+  const totalPages = $derived(Math.ceil(searchResults.length / searchState.itemsPerPage));
+  const startIndex = $derived((searchState.page - 1) * searchState.itemsPerPage);
   const endIndex = $derived(
-    searchState.page === totalPages ? searchResults.length : startIndex + ITEMS_PER_PAGE
+    searchState.page === totalPages
+      ? searchResults.length
+      : startIndex + searchState.itemsPerPage
   );
   const paginatedSearchResults = $derived(searchResults.slice(startIndex, endIndex));
 
@@ -87,6 +90,7 @@
       {#each filters as filter}
         <FilterSection {...filter} />
       {/each}
+      <div><SearchSettings /></div>
     </div>
   </div>
 
@@ -124,9 +128,12 @@
   {#if totalPages > 1}
     <Pagination.Root
       count={searchResults.length}
-      perPage={ITEMS_PER_PAGE}
+      perPage={searchState.itemsPerPage}
       bind:page={searchState.page}
-      onPageChange={() => window.scrollTo({ top: 0, left: 0, behavior: "smooth" })}
+      onPageChange={() => {
+        if (!searchState.scrollToTop) return;
+        window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
+      }}
     >
       {#snippet children({ pages, currentPage })}
         <p class="mt-2">
