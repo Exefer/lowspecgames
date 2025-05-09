@@ -13,7 +13,7 @@
   } from "./filter-section.svelte";
   import SpecCard from "./spec-card.svelte";
 
-  const getReleaseYear = (date: string | Date) => String(new Date(date).getFullYear());
+  const getReleaseYear = (date: string) => String(new Date(date).getFullYear());
 
   const haystack = lowspec.map(spec => spec.title);
 
