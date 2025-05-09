@@ -35,7 +35,11 @@
     {/if}
     <ArrowUpDown />
   </DropdownMenu.Trigger>
-  <DropdownMenu.Content class="max-h-64 w-56 overflow-y-scroll shadow-md" sticky="always">
+  <DropdownMenu.Content
+    class="max-h-64 w-56 overflow-y-scroll shadow-md"
+    sticky="always"
+    onOpenAutoFocus={e => e.preventDefault()}
+  >
     <DropdownMenu.Group>
       <DropdownMenu.GroupHeading>{title}</DropdownMenu.GroupHeading>
       {#if selectedItemsCount > 0}
@@ -50,6 +54,7 @@
             bind:value={search}
             placeholder="Filter..."
             autofocus={false}
+            onkeydown={e => e.stopPropagation()}
             >Filter
           </Input>
         </div>
