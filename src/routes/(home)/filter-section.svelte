@@ -11,10 +11,10 @@
     title: string;
     key: FilterSectionKey;
     items: string[];
-    hasFilterInput?: boolean;
+    hasFilter?: boolean;
   }
 
-  let { title, key, items, hasFilterInput = true }: FilterSectionProps = $props();
+  let { title, key, items, hasFilter = true }: FilterSectionProps = $props();
 
   let search = $state("");
 
@@ -43,7 +43,7 @@
           Clear {selectedItemsCount} selected
         </button>
       {/if}
-      {#if hasFilterInput}
+      {#if hasFilter}
         <div class="p-1">
           <Input class="border border-primary" bind:value={search} placeholder="Filter..."
             >Filter

@@ -53,7 +53,7 @@
         .filter(Boolean)
         .sort((a, b) => b - a)
         .map(String),
-      hasFilterInput: false,
+      hasFilter: false,
     },
   ];
 
