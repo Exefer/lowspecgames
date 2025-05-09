@@ -4,7 +4,7 @@
     "": {
       "name": "lowspecgames",
       "dependencies": {
-        "@fontsource/poppins": "^5.2.6",
+        "@fontsource/geist-sans": "^5.2.5",
         "@leeoniya/ufuzzy": "^1.0.18",
         "mode-watcher": "^1.0.6",
       },
@@ -118,7 +118,7 @@
 
     "@floating-ui/utils": ["@floating-ui/utils@0.2.9", "", {}, "sha512-MDWhGtE+eHw5JW7lq4qhc5yRLS11ERl1c7Z6Xd0a58DozHES6EnNNwUWbMiG4J9Cgj053Bhk8zvlhFYKVhULwg=="],
 
-    "@fontsource/poppins": ["@fontsource/poppins@5.2.6", "", {}, "sha512-NFr0121+vWCfzLDVvSZOzwAjRUaNj6QHA9gtUh/KHHoWf1Qn23EkwVFs63XZ6UtF5K1b3UNmCx77YEMGgV7BOQ=="],
+    "@fontsource/geist-sans": ["@fontsource/geist-sans@5.2.5", "", {}, "sha512-anllOHyJbElRs9fV15TeDRqAeb1IKm4bSknPl6ZMoyPTx1BBy7logudcUwpNjmQLkzn4Q0JGQLRCUKJYoyST6A=="],
 
     "@humanfs/core": ["@humanfs/core@0.19.1", "", {}, "sha512-5DyQ4+1JEUzejeK1JGICcideyfUbGixgS9jNgex5nqkW+cY7WZhxBigmieN5Qnw9ZosSNVC9KQKyb+GUaGyKUA=="],
 

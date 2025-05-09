@@ -14,7 +14,7 @@ const config: Config = {
       },
     },
     fontFamily: {
-      sans: ["Poppins", "sans-serif"],
+      sans: ["Geist Sans", "sans-serif"],
     },
     extend: {
       colors: {
