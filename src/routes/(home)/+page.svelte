@@ -51,7 +51,7 @@
         new Set(lowspec.flatMap(spec => new Date(spec.releaseDate).getFullYear()))
       )
         .filter(Boolean)
-        .sort((a, b) => a - b)
+        .sort((a, b) => b - a)
         .map(String),
       hasFilterInput: false,
     },
