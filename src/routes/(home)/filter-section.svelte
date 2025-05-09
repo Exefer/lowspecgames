@@ -55,7 +55,7 @@
         </div>
       {/if}
       <DropdownMenu.Separator />
-      {#each filteredItems as item (item)}
+      {#each filteredItems.sort((a, b) => Number(searchState[key].has(b)) - Number(searchState[key].has(a))) as item (item)}
         <DropdownMenu.CheckboxItem
           closeOnSelect={false}
           bind:checked={
