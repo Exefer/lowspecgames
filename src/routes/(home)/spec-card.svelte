@@ -8,7 +8,9 @@
 
   const { spec }: SpecCardProps = $props();
 
-  const visibleGenres = $derived(spec.genres.slice(0, 3));
+  const visibleGenres = $derived(
+    spec.genres.sort((a, b) => a.length - b.length).slice(0, 3)
+  );
   const remainingGenres = $derived(spec.genres.length - visibleGenres.length);
 </script>
 
