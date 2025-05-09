@@ -301,13 +301,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/113200/header.jpg?t=1643480517"
   },
   {
-    "id": "1249970",
-    "title": "Test Drive Unlimited Solar Crown",
-    "genres": ["Massively Multiplayer", "Racing", "Simulation"],
-    "releaseDate": "Sep 12, 2024",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249970/header.jpg?t=1726158500"
-  },
-  {
     "id": "270150",
     "title": "RUNNING WITH RIFLES",
     "genres": ["Action", "Indie"],
@@ -1106,13 +1099,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/294100/header.jpg?t=1650485223"
   },
   {
-    "id": "2124490",
-    "title": "SILENT HILL 2",
-    "genres": ["Action", "Adventure"],
-    "releaseDate": "Oct 7, 2024",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg?t=1728470029"
-  },
-  {
     "id": "3830",
     "title": "Psychonauts",
     "genres": ["Action"],
@@ -1146,13 +1132,6 @@
     "genres": ["Indie", "RPG", "Strategy"],
     "releaseDate": "Mar 4, 2021",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1282730/header.jpg?t=1633530897"
-  },
-  {
-    "id": "397540",
-    "title": "Borderlands 3",
-    "genres": ["Action", "RPG"],
-    "releaseDate": "Mar 13, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397540/header.jpg?t=1657214217"
   },
   {
     "id": "49520",
@@ -3067,13 +3046,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/250600/header.jpg?t=1615556662"
   },
   {
-    "id": "1145040",
-    "title": "Princess Guard",
-    "genres": ["Action", "Adventure", "Casual", "RPG", "Simulation"],
-    "releaseDate": "Mar 21, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1145040/header.jpg?t=1584901248"
-  },
-  {
     "id": "514080",
     "title": "Deadly Dozen",
     "genres": ["Action", "Strategy"],
@@ -4012,13 +3984,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/239250/header.jpg?t=1631586464"
   },
   {
-    "id": "2183900",
-    "title": "Warhammer 40,000: Space Marine 2",
-    "genres": ["Action", "Adventure", "RPG"],
-    "releaseDate": "Sep 9, 2024",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1729244161"
-  },
-  {
     "id": "1455840",
     "title": "Dorfromantik",
     "genres": ["Casual", "Indie", "Simulation", "Strategy"],
@@ -4304,13 +4269,6 @@
     "genres": ["Sports"],
     "releaseDate": "Aug 30, 2017",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/462640/header.jpg?t=1573127050"
-  },
-  {
-    "id": "227300",
-    "title": "Euro Truck Simulator 2",
-    "genres": ["Indie", "Simulation"],
-    "releaseDate": "Oct 12, 2012",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/227300/header.jpg?t=1656428921"
   },
   {
     "id": "270880",
@@ -5027,13 +4985,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/42910/header.jpg?t=1615973729"
   },
   {
-    "id": "553850",
-    "title": "HELLDIVERS™ 2",
-    "genres": ["Action"],
-    "releaseDate": "Feb 8, 2024",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/553850/header.jpg?t=1707382710"
-  },
-  {
     "id": "1562700",
     "title": "SANABI",
     "genres": ["Action", "Adventure", "Indie", "Early Access"],
@@ -5634,13 +5585,6 @@
     "genres": ["Action", "Adventure", "Indie", "RPG"],
     "releaseDate": "Aug 6, 2020",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/656350/header.jpg?t=1641501972"
-  },
-  {
-    "id": "377160",
-    "title": "Fallout 4",
-    "genres": ["RPG"],
-    "releaseDate": "Nov 9, 2015",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/377160/header.jpg?t=1650909928"
   },
   {
     "id": "1184760",
