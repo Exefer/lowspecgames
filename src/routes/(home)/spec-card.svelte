@@ -17,7 +17,7 @@
 <div
   class="flex flex-col overflow-hidden rounded-md border border-primary bg-card text-card-foreground shadow-md"
 >
-  <img src={spec.thumbnailUrl} alt={spec.title} />
+  <img src={spec.thumbnailUrl} alt={spec.title} loading="lazy" />
   <div class="flex flex-col p-4">
     <div class="flex flex-col gap-1">
       <p class="truncate text-lg font-semibold" title={spec.title}>
