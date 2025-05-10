@@ -31,7 +31,7 @@
               value => (searchState.itemsPerPage = Number(value))
             }
           >
-            {#each ITEMS_PER_PAGE_OPTIONS as value}
+            {#each ITEMS_PER_PAGE_OPTIONS as value (value)}
               <DropdownMenu.RadioItem value={String(value)}
                 >{value}</DropdownMenu.RadioItem
               >

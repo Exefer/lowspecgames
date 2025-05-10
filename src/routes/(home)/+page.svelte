@@ -92,7 +92,7 @@
       class="border border-primary"
     />
     <div class="flex gap-2">
-      {#each filters as filter}
+      {#each filters as filter (filter.key)}
         <FilterSection {...filter} />
       {/each}
       <div><SearchOptions /></div>
@@ -101,8 +101,8 @@
 
   {#if filterKeys.some(key => searchState[key].size > 0)}
     <div class="flex flex-wrap gap-2">
-      {#each filterKeys as key}
-        {#each searchState[key] as item}
+      {#each filterKeys as key (key)}
+        {#each searchState[key] as item (item)}
           <Badge class="select-none gap-0.5 text-sm">
             <span>{item}</span>
             <X
@@ -118,6 +118,7 @@
 
   {#if paginatedSearchResults.length > 0}
     <div class="grid grid-cols-[repeat(auto-fill,minmax(300px,1fr))] gap-4">
+      <!-- Don't key spec cards on purpose to prevent re-rendering -->
       {#each paginatedSearchResults as spec}
         <SpecCard {spec} />
       {/each}
