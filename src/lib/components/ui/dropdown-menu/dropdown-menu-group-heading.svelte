@@ -14,6 +14,6 @@
 
 <DropdownMenuPrimitive.GroupHeading
   bind:ref
-  class={cn("px-2 pb-0.5 pt-1.5 text-sm font-semibold", inset && "pl-8", className)}
+  class={cn("px-2 pt-1.5 text-sm font-semibold", inset && "pl-8", className)}
   {...restProps}
 />

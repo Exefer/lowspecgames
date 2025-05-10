@@ -47,7 +47,7 @@
       {#if hasFilter}
         <div class="p-1">
           <Input
-            class="border border-primary"
+            class="h-8 border border-primary text-sm"
             bind:value={search}
             placeholder="Filter..."
             autofocus={false}

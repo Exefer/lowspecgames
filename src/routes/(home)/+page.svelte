@@ -11,7 +11,7 @@
     type FilterSectionKey,
     type FilterSectionProps,
   } from "./filter-section.svelte";
-  import SearchSettings from "./search-settings.svelte";
+  import SearchOptions from "./search-options.svelte";
   import SpecCard from "./spec-card.svelte";
 
   const getReleaseYear = (date: string) => String(new Date(date).getFullYear());
@@ -90,7 +90,7 @@
       {#each filters as filter}
         <FilterSection {...filter} />
       {/each}
-      <div><SearchSettings /></div>
+      <div><SearchOptions /></div>
     </div>
   </div>
 

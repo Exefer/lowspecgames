@@ -17,6 +17,8 @@
   </DropdownMenu.Trigger>
   <DropdownMenu.Content class="w-56 overflow-y-scroll shadow-md" sticky="always">
     <DropdownMenu.Group>
+      <DropdownMenu.GroupHeading>Options</DropdownMenu.GroupHeading>
+      <DropdownMenu.Separator />
       <DropdownMenu.CheckboxItem bind:checked={searchState.scrollToTop}
         >Scroll to top</DropdownMenu.CheckboxItem
       >
