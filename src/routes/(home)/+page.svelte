@@ -5,6 +5,7 @@
   import * as Pagination from "@/components/ui/pagination";
   import { uf } from "@/constants";
   import { searchState } from "@/shared.svelte";
+  import { getReleaseYear } from "@/utils";
   import lowspec from "@lowspec/data.json";
   import X from "@lucide/svelte/icons/x";
   import FilterSection, {
@@ -14,8 +15,6 @@
   import SearchOptions from "./search-options.svelte";
   import SpecCard from "./spec-card.svelte";
 
-  const getReleaseYear = (date: string) => String(new Date(date).getFullYear());
-
   const haystack = lowspec.map(spec => spec.title);
 
   const searchResults = $derived.by(() => {
@@ -24,7 +23,7 @@
       : lowspec;
 
     return results.filter(spec => {
-      const year = getReleaseYear(spec.releaseDate);
+      const year = String(getReleaseYear(spec.releaseDate));
 
       const matchesGenres =
         searchState.genres.size === 0 ||
@@ -58,7 +57,7 @@
       title: "Release Date",
       key: "releaseDates",
       items: Array.from(
-        new Set(lowspec.flatMap(spec => new Date(spec.releaseDate).getFullYear()))
+        new Set(lowspec.flatMap(spec => getReleaseYear(spec.releaseDate)))
       )
         .filter(Boolean)
         .sort((a, b) => b - a)
