@@ -71,6 +71,9 @@
   $effect(() => {
     searchState.title;
     searchState.itemsPerPage;
+    searchState.genres.size;
+    searchState.releaseDates.size;
+
     searchState.page = 1;
   });
 </script>

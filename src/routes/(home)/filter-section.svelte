@@ -62,10 +62,8 @@
           closeOnSelect={false}
           bind:checked={
             () => searchState[key].has(item),
-            checked => {
-              searchState.page = 1;
-              return checked ? searchState[key].add(item) : searchState[key].delete(item);
-            }
+            checked =>
+              checked ? searchState[key].add(item) : searchState[key].delete(item)
           }
         >
           {item}
