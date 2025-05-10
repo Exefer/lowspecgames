@@ -77,6 +77,10 @@
     if (searchState.page > totalPages) {
       searchState.page = totalPages - 1;
     }
+
+    if (searchState.page < 1) {
+      searchState.page = 1;
+    }
   });
 </script>
 
