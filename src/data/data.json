@@ -1841,13 +1841,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/336130/header.jpg?t=1644381840"
   },
   {
-    "id": "934700",
-    "title": "Dead Island 2",
-    "genres": ["Action", "Adventure"],
-    "releaseDate": "Apr 22, 2024",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/934700/header.jpg?t=1713802874"
-  },
-  {
     "id": "383180",
     "title": "Dead Island: Riptide Definitive Edition",
     "genres": ["Action"],
@@ -2262,13 +2255,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/774361/header.jpg?t=1657296753"
   },
   {
-    "id": "1593500",
-    "title": "God of War",
-    "genres": ["Action", "Adventure", "RPG"],
-    "releaseDate": "Jan 14, 2022",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1593500/header.jpg?t=1650554420"
-  },
-  {
     "id": "7020",
     "title": "Rogue Trooper",
     "genres": ["Action"],
@@ -2288,13 +2274,6 @@
     "genres": ["Action", "Adventure", "Indie"],
     "releaseDate": "Mar 4, 2025",
     "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332680/header.jpg?t=1741131479"
-  },
-  {
-    "id": "2507950",
-    "title": "Delta Force",
-    "genres": ["Action", "Adventure", "Massively Multiplayer", "Free To Play"],
-    "releaseDate": "Dec 4, 2024",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/header.jpg?t=1735012567"
   },
   {
     "id": "1154790",
