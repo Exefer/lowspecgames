@@ -73,6 +73,12 @@
     searchState.title;
     searchState.page = 1;
   });
+
+  $effect(() => {
+    if (searchState.page > totalPages) {
+      searchState.page = totalPages - 1;
+    }
+  });
 </script>
 
 <main class="flex flex-col gap-4 p-4">
