@@ -168,13 +168,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/3270/header.jpg?t=1640259811"
   },
   {
-    "id": "1606140",
-    "title": "Trilogy KING MAN",
-    "genres": ["Indie"],
-    "releaseDate": "May 22, 2021",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1606140/header.jpg?t=1643743192"
-  },
-  {
     "id": "21090",
     "title": "F.E.A.R.",
     "genres": ["Action"],
@@ -1888,13 +1881,6 @@
     "genres": ["Action"],
     "releaseDate": "Jun 13, 2011",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/57900/header.jpg?t=1573065360"
-  },
-  {
-    "id": "3249320",
-    "title": "Strangler",
-    "genres": ["Action", "Casual", "Indie"],
-    "releaseDate": "Jan 24, 2025",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3249320/header.jpg?t=1737884046"
   },
   {
     "id": "226720",
