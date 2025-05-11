@@ -1,9 +1,10 @@
 ---
 name: Game Request
 about: Suggest games to add to the list!
-title: "[Feature]: Game Request"
+title: "[Game Request]: "
 labels: enhancement
-assignees: ""
+assignees: ''
+
 ---
 
 **Provide game name and Steam ID side by side in a list:**
