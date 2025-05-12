@@ -5641,5 +5641,117 @@
     "genres": ["Adventure", "Indie", "Simulation"],
     "releaseDate": "Jul 22, 2024",
     "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/header.jpg?t=1722459302"
+  },
+  {
+    "id": "298630",
+    "title": "The Escapists",
+    "genres": ["Action", "Adventure", "Indie", "Simulation", "Strategy"],
+    "releaseDate": "Feb 13, 2015",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/298630/header.jpg?t=1632240432"
+  },
+  {
+    "id": "448510",
+    "title": "Overcooked",
+    "genres": ["Action", "Casual", "Indie", "Simulation"],
+    "releaseDate": "Aug 3, 2016",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/448510/header.jpg?t=1643291180"
+  },
+  {
+    "id": "641990",
+    "title": "The Escapists 2",
+    "genres": ["Indie", "Simulation", "Strategy"],
+    "releaseDate": "Aug 21, 2017",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/641990/header.jpg?t=1643290783"
+  },
+  {
+    "id": "1637320",
+    "title": "Dome Keeper",
+    "genres": ["Action", "Indie"],
+    "releaseDate": "Sep 27, 2022",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1637320/header.jpg?t=1664541745"
+  },
+  {
+    "id": "2056220",
+    "title": "Bloody Hell",
+    "genres": ["Action", "Adventure", "Free to Play", "Indie"],
+    "releaseDate": "Jan 27, 2023",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2056220/header.jpg?t=1674854581"
+  },
+  {
+    "id": "214340",
+    "title": "Deponia",
+    "genres": ["Adventure", "Indie"],
+    "releaseDate": "Aug 6, 2012",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/214340/header.jpg?t=1646937169"
+  },
+  {
+    "id": "220740",
+    "title": "Chaos on Deponia",
+    "genres": ["Adventure", "Indie"],
+    "releaseDate": "Nov 6, 2012",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/220740/header.jpg?t=1646937265"
+  },
+  {
+    "id": "241910",
+    "title": "Goodbye Deponia",
+    "genres": ["Adventure", "Indie"],
+    "releaseDate": "Oct 17, 2013",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/241910/header.jpg?t=1646937382"
+  },
+  {
+    "id": "292910",
+    "title": "Deponia: The Complete Journey",
+    "genres": ["Adventure"],
+    "releaseDate": "Jul 8, 2014",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/292910/header.jpg?t=1646937568"
+  },
+  {
+    "id": "421050",
+    "title": "Deponia Doomsday",
+    "genres": ["Adventure", "Indie"],
+    "releaseDate": "Mar 1, 2016",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/421050/header.jpg?t=1646937502"
+  },
+  {
+    "id": "412220",
+    "title": "DDNet",
+    "genres": ["Action", "Free to Play", "Indie", "Racing"],
+    "releaseDate": "Aug 17, 2020",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/412220/header.jpg?t=1646225107"
+  },
+  {
+    "id": "218680",
+    "title": "Scribblenauts Unlimited",
+    "genres": ["Adventure", "Casual", "Strategy"],
+    "releaseDate": "Nov 19, 2012",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/218680/header.jpg?t=1454964134"
+  },
+  {
+    "id": "915310",
+    "title": "SNKRX",
+    "genres": ["Action", "Casual", "Indie"],
+    "releaseDate": "May 17, 2021",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/915310/header.jpg?t=1636813073"
+  },
+  {
+    "id": "260230",
+    "title": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™",
+    "genres": ["Adventure"],
+    "releaseDate": "Jun 25, 2014",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/260230/header.jpg?t=1617126372"
+  },
+  {
+    "id": "632470",
+    "title": "Disco Elysium - The Final Cut",
+    "genres": ["RPG"],
+    "releaseDate": "Oct 15, 2019",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/632470/header.jpg?t=1658854930"
+  },
+  {
+    "id": "24240",
+    "title": "PAYDAY™ The Heist",
+    "genres": ["Action"],
+    "releaseDate": "Oct 20, 2011",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/24240/header.jpg?t=1574898258"
   }
 ]
