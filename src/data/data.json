@@ -245,13 +245,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/667720/header.jpg?t=1591103504"
   },
   {
-    "id": "2755240",
-    "title": "DESCENT",
-    "genres": ["Action", "Indie"],
-    "releaseDate": "Oct 20, 2024",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2755240/header.jpg?t=1729465220"
-  },
-  {
     "id": "590380",
     "title": "Into the Breach",
     "genres": ["Indie", "RPG", "Simulation", "Strategy"],
@@ -644,13 +637,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/105450/header.jpg?t=1626493028"
   },
   {
-    "id": "2858860",
-    "title": "The Witch",
-    "genres": ["Adventure"],
-    "releaseDate": "Nov 15, 2024",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2858860/header.jpg?t=1731675477"
-  },
-  {
     "id": "20920",
     "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "genres": ["RPG"],
@@ -798,13 +784,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/239350/header.jpg?t=1632912566"
   },
   {
-    "id": "601150",
-    "title": "Devil May Cry 5",
-    "genres": ["Action"],
-    "releaseDate": "Mar 7, 2019",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/601150/header.jpg?t=1643243335"
-  },
-  {
     "id": "45700",
     "title": "Devil May Cry 4",
     "genres": ["Action", "Adventure"],
@@ -894,13 +873,6 @@
     "genres": ["Action"],
     "releaseDate": "Jun 26, 2012",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/212630/header.jpg?t=1472606318"
-  },
-  {
-    "id": "1856750",
-    "title": "Relayer Advanced",
-    "genres": ["Adventure", "RPG", "Simulation"],
-    "releaseDate": "Oct 26, 2022",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1856750/header.jpg?t=1666796584"
   },
   {
     "id": "13540",
@@ -1013,13 +985,6 @@
     "genres": ["Adventure", "Indie"],
     "releaseDate": "Dec 21, 2015",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/384630/header.jpg?t=1572557166"
-  },
-  {
-    "id": "3007630",
-    "title": "Combat Evolved 2D",
-    "genres": ["Indie"],
-    "releaseDate": "Jul 2, 2024",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3007630/header.jpg?t=1722888969"
   },
   {
     "id": "2933060",
@@ -1167,13 +1132,6 @@
     "genres": ["Adventure", "Indie", "Early Access"],
     "releaseDate": "Apr 28, 2020",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1223380/header.jpg?t=1588085797"
-  },
-  {
-    "id": "1634530",
-    "title": "Ascension",
-    "genres": ["Action", "Adventure", "Casual", "Indie"],
-    "releaseDate": "Jun 9, 2021",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1634530/header.jpg?t=1628604151"
   },
   {
     "id": "6000",
@@ -1328,13 +1286,6 @@
     "genres": ["Action", "Casual", "Indie"],
     "releaseDate": "Jul 22, 2016",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/498190/header.jpg?t=1593028434"
-  },
-  {
-    "id": "860870",
-    "title": "Bully Store",
-    "genres": ["Casual", "Simulation"],
-    "releaseDate": "Nov 6, 2018",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860870/header.jpg?t=1572004997"
   },
   {
     "id": "214950",
@@ -1517,13 +1468,6 @@
     "genres": ["Adventure", "Indie", "RPG"],
     "releaseDate": "Sep 7, 2012",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/206440/header.jpg?t=1579718439"
-  },
-  {
-    "id": "1086940",
-    "title": "Baldur's Gate 3",
-    "genres": ["Adventure", "RPG", "Strategy", "Early Access"],
-    "releaseDate": "Oct 6, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg?t=1657252325"
   },
   {
     "id": "204060",
@@ -1785,27 +1729,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/711540/header.jpg?t=1652897420"
   },
   {
-    "id": "3382220",
-    "title": "OVERDOSE",
-    "genres": ["Action", "Adventure", "Casual", "Indie", "Simulation", "Strategy"],
-    "releaseDate": "Apr 4, 2025",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3382220/header.jpg?t=1743779029"
-  },
-  {
-    "id": "1621070",
-    "title": "DeadPoly",
-    "genres": ["Action", "Adventure", "Massively Multiplayer", "Early Access"],
-    "releaseDate": "Jan 12, 2022",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1621070/header.jpg?t=1658000520"
-  },
-  {
-    "id": "1602810",
-    "title": "Metaverse: Origins",
-    "genres": ["Adventure", "Indie", "Simulation", "Strategy", "Early Access"],
-    "releaseDate": "May 17, 2021",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1602810/header.jpg?t=1640856855"
-  },
-  {
     "id": "336130",
     "title": "Shardlight",
     "genres": ["Adventure", "Indie", "RPG"],
@@ -1883,13 +1806,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/301640/header.jpg?t=1589808341"
   },
   {
-    "id": "1238080",
-    "title": "Burnout™ Paradise Remastered",
-    "genres": ["Action", "Adventure", "Racing"],
-    "releaseDate": "Jun 4, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1238080/header.jpg?t=1625518920"
-  },
-  {
     "id": "893680",
     "title": "Project Warlock",
     "genres": ["Action", "Indie"],
@@ -1925,13 +1841,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/422760/header.jpg?t=1517860245"
   },
   {
-    "id": "1047110",
-    "title": "Bondage Nightmare",
-    "genres": ["Action", "Indie", "Simulation"],
-    "releaseDate": "Apr 27, 2019",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1047110/header.jpg?t=1566979312"
-  },
-  {
     "id": "3800",
     "title": "Advent Rising",
     "genres": ["Action"],
@@ -1944,13 +1853,6 @@
     "genres": ["Adventure", "Indie"],
     "releaseDate": "Feb 7, 2014",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/250260/header.jpg?t=1568753340"
-  },
-  {
-    "id": "3047320",
-    "title": "Stealth Syndicate",
-    "genres": ["Action", "Indie"],
-    "releaseDate": "Nov 18, 2024",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3047320/header.jpg?t=1731949299"
   },
   {
     "id": "297860",
@@ -1974,40 +1876,11 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/512900/header.jpg?t=1617984936"
   },
   {
-    "id": "2001800",
-    "title": "Spintales",
-    "genres": ["Adventure", "RPG"],
-    "releaseDate": "Nov 4, 2022",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2001800/header.jpg?t=1667548268"
-  },
-  {
     "id": "10130",
     "title": "TimeShift™",
     "genres": ["Action"],
     "releaseDate": "Jul 23, 2009",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/10130/header.jpg?t=1531432708"
-  },
-  {
-    "id": "532210",
-    "title": "Life is Strange 2",
-    "genres": ["Adventure"],
-    "releaseDate": "Sep 26, 2018",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/532210/header.jpg?t=1637335482"
-  },
-  {
-    "id": "1649500",
-    "title": "Sundermead",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Casual",
-      "Indie",
-      "RPG",
-      "Simulation",
-      "Early Access"
-    ],
-    "releaseDate": "Oct 2, 2023",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1649500/header.jpg?t=1696538014"
   },
   {
     "id": "228300",
@@ -2192,25 +2065,11 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/12130/header.jpg?t=1618852702"
   },
   {
-    "id": "299100",
-    "title": "Back To Life 2",
-    "genres": ["Indie"],
-    "releaseDate": "May 6, 2014",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/299100/header.jpg?t=1574190473"
-  },
-  {
     "id": "346320",
     "title": "Streets of Chaos",
     "genres": ["Indie", "Simulation", "Strategy"],
     "releaseDate": "Jan 28, 2015",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/346320/header.jpg?t=1543608664"
-  },
-  {
-    "id": "9730",
-    "title": "Tycoon City: New York",
-    "genres": ["Simulation"],
-    "releaseDate": "Mar 12, 2008",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/9730/header.jpg?t=1486757370"
   },
   {
     "id": "774361",
@@ -2234,39 +2093,11 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/837600/header.jpg?t=1587034462"
   },
   {
-    "id": "3332680",
-    "title": "Enemy Territory Terrorists Takedown",
-    "genres": ["Action", "Adventure", "Indie"],
-    "releaseDate": "Mar 4, 2025",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332680/header.jpg?t=1741131479"
-  },
-  {
-    "id": "1154790",
-    "title": "XIII",
-    "genres": ["Action"],
-    "releaseDate": "Nov 10, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1154790/header.jpg?t=1655996058"
-  },
-  {
     "id": "792300",
     "title": "The Beast Inside",
     "genres": ["Action", "Adventure", "Indie"],
     "releaseDate": "Oct 17, 2019",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/792300/header.jpg?t=1656934301"
-  },
-  {
-    "id": "850170",
-    "title": "EMERGENCY",
-    "genres": ["Action", "Strategy", "Free to Play"],
-    "releaseDate": "Aug 15, 2023",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/850170/header.jpg?t=1693569346"
-  },
-  {
-    "id": "311140",
-    "title": "The Stalin Subway",
-    "genres": ["Action"],
-    "releaseDate": "Sep 19, 2014",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/311140/header.jpg?t=1658420647"
   },
   {
     "id": "13250",
@@ -2283,67 +2114,11 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/13210/header.jpg?t=1572719743"
   },
   {
-    "id": "862260",
-    "title": "Miami Cruise",
-    "genres": ["Action", "Indie", "Racing", "Early Access"],
-    "releaseDate": "Dec 20, 2018",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/862260/header.jpg?t=1548350892"
-  },
-  {
-    "id": "846880",
-    "title": "The Chronicles of Quiver Dick",
-    "genres": ["Adventure", "Indie", "RPG"],
-    "releaseDate": "Jul 9, 2018",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/846880/header.jpg?t=1583259587"
-  },
-  {
     "id": "950830",
     "title": "The Pusher",
     "genres": ["Indie", "Simulation", "Strategy", "Early Access"],
     "releaseDate": "Feb 22, 2019",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/950830/header.jpg?t=1590855025"
-  },
-  {
-    "id": "1309500",
-    "title": "Road To Death",
-    "genres": ["Action", "Adventure", "Indie"],
-    "releaseDate": "May 20, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1309500/header.jpg?t=1638899754"
-  },
-  {
-    "id": "1140930",
-    "title": "You are apt",
-    "genres": ["Casual", "Indie"],
-    "releaseDate": "Aug 31, 2019",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1140930/header.jpg?t=1567616153"
-  },
-  {
-    "id": "2328270",
-    "title": "Island of the Dead",
-    "genres": ["Action", "Adventure", "Indie"],
-    "releaseDate": "Mar 10, 2023",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2328270/header.jpg?t=1678462639"
-  },
-  {
-    "id": "981250",
-    "title": "C.Q.C. - Close Quarters Combat",
-    "genres": ["Action", "Casual", "Indie"],
-    "releaseDate": "Nov 14, 2019",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/981250/header.jpg?t=1645558389"
-  },
-  {
-    "id": "1740140",
-    "title": "SWAT",
-    "genres": ["Action", "Massively Multiplayer", "RPG"],
-    "releaseDate": "Sep 17, 2021",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1740140/header.jpg?t=1658303475"
-  },
-  {
-    "id": "511760",
-    "title": "Devastated",
-    "genres": ["Action", "Adventure", "Indie", "RPG"],
-    "releaseDate": "Feb 27, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/511760/header.jpg?t=1608636353"
   },
   {
     "id": "216110",
@@ -2360,62 +2135,6 @@
     "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3007990/header.jpg?t=1720042976"
   },
   {
-    "id": "1125130",
-    "title": "Area 51",
-    "genres": ["Action", "Casual", "Indie", "RPG", "Simulation", "Strategy"],
-    "releaseDate": "Aug 8, 2019",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1125130/header.jpg?t=1565672883"
-  },
-  {
-    "id": "2590",
-    "title": "Alpha Prime",
-    "genres": ["Action"],
-    "releaseDate": "Nov 7, 2007",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2590/header.jpg?t=1582120844"
-  },
-  {
-    "id": "985530",
-    "title": "Hunter",
-    "genres": ["Action", "Casual", "Indie", "Simulation", "Sports"],
-    "releaseDate": "Jan 28, 2019",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/985530/header.jpg?t=1568839173"
-  },
-  {
-    "id": "7010",
-    "title": "Project: Snowblind",
-    "genres": ["Action"],
-    "releaseDate": "Mar 29, 2007",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/7010/header.jpg?t=1592493169"
-  },
-  {
-    "id": "212070",
-    "title": "Star Conflict",
-    "genres": ["Action", "Free to Play", "Massively Multiplayer", "Simulation"],
-    "releaseDate": "Feb 27, 2013",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/212070/header.jpg?t=1658383783"
-  },
-  {
-    "id": "514140",
-    "title": "Elite Warriors: Vietnam",
-    "genres": ["Action"],
-    "releaseDate": "Feb 2, 2017",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/514140/header.jpg?t=1602615675"
-  },
-  {
-    "id": "71230",
-    "title": "Crazy Taxi",
-    "genres": ["Action", "Racing"],
-    "releaseDate": "Mar 4, 2011",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/71230/header.jpg?t=1632735820"
-  },
-  {
-    "id": "1599680",
-    "title": "Street Racing: United",
-    "genres": ["Action", "Adventure", "Indie", "Racing", "Simulation", "Sports"],
-    "releaseDate": "Oct 8, 2021",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1599680/header.jpg?t=1650376050"
-  },
-  {
     "id": "292410",
     "title": "Street Racing Syndicate",
     "genres": ["Racing"],
@@ -2423,53 +2142,11 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/292410/header.jpg?t=1530529947"
   },
   {
-    "id": "1233120",
-    "title": "Street Racing 2020",
-    "genres": ["Action", "Indie", "Racing", "Simulation", "Sports"],
-    "releaseDate": "Mar 30, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1233120/header.jpg?t=1650243718"
-  },
-  {
     "id": "1347780",
     "title": "Freedom Fighters",
     "genres": ["Action"],
     "releaseDate": "Sep 21, 2020",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1347780/header.jpg?t=1600704099"
-  },
-  {
-    "id": "1260690",
-    "title": "Man Face Spider I",
-    "genres": ["Action", "Casual", "Indie"],
-    "releaseDate": "Mar 19, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1260690/header.jpg?t=1587788776"
-  },
-  {
-    "id": "777400",
-    "title": "Ultimate Spider Hero",
-    "genres": ["Action", "Casual", "Indie"],
-    "releaseDate": "Jan 26, 2018",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/777400/header.jpg?t=1658772561"
-  },
-  {
-    "id": "1799290",
-    "title": "Ball Boys",
-    "genres": ["Action", "Casual", "Indie", "Racing", "Early Access"],
-    "releaseDate": "Dec 14, 2021",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1799290/header.jpg?t=1639618556"
-  },
-  {
-    "id": "2314160",
-    "title": "Tactical Assault VR",
-    "genres": ["Action", "Simulation", "Early Access"],
-    "releaseDate": "Mar 26, 2023",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2314160/header.jpg?t=1679889614"
-  },
-  {
-    "id": "1321030",
-    "title": "No one lives in heaven",
-    "genres": ["Action", "Adventure", "Indie", "RPG"],
-    "releaseDate": "Jun 11, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1321030/header.jpg?t=1607766305"
   },
   {
     "id": "409170",
@@ -2486,32 +2163,11 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2610/header.jpg?t=1499877030"
   },
   {
-    "id": "2119370",
-    "title": "Marine Hearts",
-    "genres": ["Action", "Indie"],
-    "releaseDate": "May 8, 2023",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2119370/header.jpg?t=1683588185"
-  },
-  {
-    "id": "514150",
-    "title": "Line of Sight: Vietnam",
-    "genres": ["Action"],
-    "releaseDate": "Dec 1, 2016",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/514150/header.jpg?t=1602616568"
-  },
-  {
     "id": "326460",
     "title": "ShellShock Live",
     "genres": ["Action", "Casual", "Indie", "Massively Multiplayer", "Strategy"],
     "releaseDate": "May 22, 2020",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/326460/header.jpg?t=1595374372"
-  },
-  {
-    "id": "860190",
-    "title": "Vietcong",
-    "genres": ["Action", "Early Access"],
-    "releaseDate": "May 25, 2018",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/860190/header.jpg?t=1645643717"
   },
   {
     "id": "339790",
@@ -2556,27 +2212,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/537110/header.jpg?t=1606327789"
   },
   {
-    "id": "2382540",
-    "title": "Hit the Bit",
-    "genres": ["Action", "Indie", "Early Access"],
-    "releaseDate": "May 24, 2023",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2382540/header.jpg?t=1684989475"
-  },
-  {
-    "id": "2176850",
-    "title": "Suffer The Night",
-    "genres": ["Action", "Adventure"],
-    "releaseDate": "Apr 17, 2023",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2176850/header_alt_assets_0.jpg?t=1681828479"
-  },
-  {
-    "id": "672690",
-    "title": "The Nothing",
-    "genres": ["Action", "Indie"],
-    "releaseDate": "Aug 30, 2017",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/672690/header.jpg?t=1656282131"
-  },
-  {
     "id": "897610",
     "title": "Scrapland Remastered",
     "genres": ["Action", "Adventure"],
@@ -2591,13 +2226,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1710170/header.jpg?t=1639761593"
   },
   {
-    "id": "46550",
-    "title": "Post Mortem",
-    "genres": ["Adventure"],
-    "releaseDate": "Aug 26, 2011",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/46550/header.jpg?t=1570007388"
-  },
-  {
     "id": "46480",
     "title": "Still Life",
     "genres": ["Adventure"],
@@ -2610,27 +2238,6 @@
     "genres": ["Strategy"],
     "releaseDate": "Jun 16, 2022",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1202130/header.jpg?t=1657104501"
-  },
-  {
-    "id": "1232670",
-    "title": "Mercenaries VR",
-    "genres": ["Action"],
-    "releaseDate": "May 8, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1232670/header.jpg?t=1592591659"
-  },
-  {
-    "id": "515900",
-    "title": "ROCK",
-    "genres": ["Action", "Adventure", "Casual", "Indie", "Simulation"],
-    "releaseDate": "Aug 17, 2016",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/515900/header.jpg?t=1552493245"
-  },
-  {
-    "id": "672140",
-    "title": "Battle For Korsun",
-    "genres": ["Indie", "Strategy"],
-    "releaseDate": "Oct 26, 2018",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/672140/header.jpg?t=1564045112"
   },
   {
     "id": "299030",
@@ -2675,39 +2282,11 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/345180/header.jpg?t=1627065449"
   },
   {
-    "id": "1246390",
-    "title": "Another_World",
-    "genres": ["Indie"],
-    "releaseDate": "Mar 6, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1246390/header.jpg?t=1583482121"
-  },
-  {
     "id": "565550",
     "title": "Redneck Rampage",
     "genres": ["Action"],
     "releaseDate": "Jan 4, 2017",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/565550/header.jpg?t=1644955971"
-  },
-  {
-    "id": "271500",
-    "title": "Sniper Art of Victory",
-    "genres": ["Action"],
-    "releaseDate": "Jan 31, 2014",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/271500/header.jpg?t=1587034368"
-  },
-  {
-    "id": "1137220",
-    "title": "Elite Soldier: 3D Shooter",
-    "genres": ["Action"],
-    "releaseDate": "Sep 4, 2019",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1137220/header.jpg?t=1654016698"
-  },
-  {
-    "id": "1351710",
-    "title": "Chaos",
-    "genres": ["Action", "Adventure", "Indie", "RPG"],
-    "releaseDate": "Oct 30, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1351710/header.jpg?t=1605141780"
   },
   {
     "id": "1250",
@@ -2717,39 +2296,11 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1250/header.jpg?t=1551468074"
   },
   {
-    "id": "1008850",
-    "title": "Bounty Hunter",
-    "genres": ["Adventure", "Casual", "Indie", "RPG"],
-    "releaseDate": "Jan 21, 2019",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1008850/header.jpg?t=1548743835"
-  },
-  {
-    "id": "411330",
-    "title": "Men of Valor",
-    "genres": ["Action"],
-    "releaseDate": "Feb 9, 2016",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/411330/header.jpg?t=1562768516"
-  },
-  {
     "id": "39670",
     "title": "Chaser",
     "genres": ["Action"],
     "releaseDate": "Jul 16, 2010",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/39670/header.jpg?t=1562768220"
-  },
-  {
-    "id": "1412650",
-    "title": "Conspiracy!",
-    "genres": ["Indie"],
-    "releaseDate": "Jan 20, 2021",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1412650/header.jpg?t=1611130248"
-  },
-  {
-    "id": "1705870",
-    "title": "CUBE-e 2",
-    "genres": ["Action", "Adventure", "Casual", "Indie", "Simulation"],
-    "releaseDate": "Aug 26, 2021",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1705870/header.jpg?t=1629961406"
   },
   {
     "id": "253980",
@@ -2787,20 +2338,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/443810/header.jpg?t=1590128525"
   },
   {
-    "id": "3172800",
-    "title": "Pod Jam",
-    "genres": ["Casual", "Indie", "Strategy"],
-    "releaseDate": "Jan 7, 2025",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3172800/header.jpg?t=1736246305"
-  },
-  {
-    "id": "433890",
-    "title": "MechoEcho",
-    "genres": ["Indie", "Simulation", "Strategy"],
-    "releaseDate": "May 18, 2016",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/433890/header.jpg?t=1466648796"
-  },
-  {
     "id": "98200",
     "title": "Frozen Synapse",
     "genres": ["Indie", "Strategy"],
@@ -2815,25 +2352,11 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/210970/header.jpg?t=1598383120"
   },
   {
-    "id": "3578320",
-    "title": "Titan Quest II Playtest",
-    "genres": [],
-    "releaseDate": "Mar 12, 2025",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3578320/a557d46d9acd1f6a29e2c7c822a5526f8701a38d/header.jpg?t=1741787794"
-  },
-  {
     "id": "237990",
     "title": "The Banner Saga",
     "genres": ["Indie", "RPG", "Strategy"],
     "releaseDate": "Jan 14, 2014",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/237990/header.jpg?t=1650912084"
-  },
-  {
-    "id": "2227840",
-    "title": "The last door",
-    "genres": ["Action", "Adventure", "Indie"],
-    "releaseDate": "Dec 6, 2022",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2227840/header.jpg?t=1670516342"
   },
   {
     "id": "298050",
@@ -2850,39 +2373,11 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/260190/header.jpg?t=1447359207"
   },
   {
-    "id": "465670",
-    "title": "Project G",
-    "genres": ["Indie"],
-    "releaseDate": "May 13, 2016",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/465670/header.jpg?t=1466198172"
-  },
-  {
     "id": "378860",
     "title": "Project CARS 2",
     "genres": ["Racing"],
     "releaseDate": "Sep 21, 2017",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/378860/header.jpg?t=1630583895"
-  },
-  {
-    "id": "922590",
-    "title": "Enter The Moon",
-    "genres": ["Action", "Simulation"],
-    "releaseDate": "Sep 8, 2018",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/922590/header.jpg?t=1581685013"
-  },
-  {
-    "id": "3303770",
-    "title": "EAGLE: Special Forces",
-    "genres": ["Action", "Indie"],
-    "releaseDate": "Mar 6, 2025",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303770/header.jpg?t=1741326827"
-  },
-  {
-    "id": "2988520",
-    "title": "The Hell in I",
-    "genres": ["Action", "Adventure", "Indie", "Strategy"],
-    "releaseDate": "Jun 1, 2024",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988520/header.jpg?t=1717243880"
   },
   {
     "id": "2905090",
@@ -2897,27 +2392,6 @@
     "genres": ["Action", "Adventure"],
     "releaseDate": "Mar 10, 2014",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/254460/header.jpg?t=1447358758"
-  },
-  {
-    "id": "1172430",
-    "title": "Combat Force",
-    "genres": ["Action", "Adventure", "Indie", "Simulation", "Strategy"],
-    "releaseDate": "Dec 6, 2019",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1172430/header.jpg?t=1578249673"
-  },
-  {
-    "id": "365620",
-    "title": "WarBirds - World War II Combat Aviation",
-    "genres": ["Action", "Adventure", "Massively Multiplayer", "Simulation"],
-    "releaseDate": "May 5, 2015",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/365620/header.jpg?t=1635364492"
-  },
-  {
-    "id": "1602510",
-    "title": "Tactics of World War I",
-    "genres": ["Strategy"],
-    "releaseDate": "Jan 5, 2025",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1602510/header.jpg?t=1736147257"
   },
   {
     "id": "1594560",
@@ -2941,34 +2415,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/296180/header.jpg?t=1569588347"
   },
   {
-    "id": "617570",
-    "title": "Switch",
-    "genres": ["Audio Production", "Utilities"],
-    "releaseDate": "Jun 23, 2017",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/617570/header.jpg?t=1571766209"
-  },
-  {
-    "id": "3120210",
-    "title": "Man Made",
-    "genres": ["Indie", "Simulation", "Early Access"],
-    "releaseDate": "Nov 6, 2024",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3120210/header.jpg?t=1730954475"
-  },
-  {
-    "id": "7770",
-    "title": "X-COM: Enforcer",
-    "genres": ["Strategy"],
-    "releaseDate": "Sep 4, 2008",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/7770/header.jpg?t=1571243874"
-  },
-  {
-    "id": "926010",
-    "title": "Operation Lone Wolf",
-    "genres": ["Action", "Indie", "Early Access"],
-    "releaseDate": "Oct 1, 2018",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/926010/header.jpg?t=1569580072"
-  },
-  {
     "id": "250600",
     "title": "The Plan",
     "genres": ["Casual", "Free to Play", "Indie"],
@@ -2990,34 +2436,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/286770/header.jpg?t=1488330294"
   },
   {
-    "id": "3341440",
-    "title": "Utopia City",
-    "genres": ["Action", "Adventure"],
-    "releaseDate": "Nov 19, 2024",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341440/header.jpg?t=1732479111"
-  },
-  {
-    "id": "1212740",
-    "title": "CHAMELEON",
-    "genres": ["Casual"],
-    "releaseDate": "Jan 6, 2020",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1212740/header.jpg?t=1578376101"
-  },
-  {
-    "id": "260650",
-    "title": "Cold War",
-    "genres": ["Action"],
-    "releaseDate": "Jan 8, 2014",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/260650/header.jpg?t=1572450721"
-  },
-  {
-    "id": "978660",
-    "title": "Parity",
-    "genres": ["Casual", "Indie"],
-    "releaseDate": "Dec 17, 2019",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/978660/header.jpg?t=1577021179"
-  },
-  {
     "id": "273620",
     "title": "Freespace 2",
     "genres": ["Action"],
@@ -3030,20 +2448,6 @@
     "genres": ["Action", "Free to Play", "Indie"],
     "releaseDate": "Aug 29, 2012",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/212800/header.jpg?t=1472134069"
-  },
-  {
-    "id": "338810",
-    "title": "Demise of Nations",
-    "genres": ["Free to Play", "Indie", "Strategy"],
-    "releaseDate": "Aug 8, 2017",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/338810/header.jpg?t=1653141217"
-  },
-  {
-    "id": "61700",
-    "title": "Might & Magic: Clash of Heroes",
-    "genres": ["RPG", "Strategy"],
-    "releaseDate": "Sep 22, 2011",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/61700/header.jpg?t=1447354560"
   },
   {
     "id": "2100",
@@ -3165,13 +2569,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/200900/header.jpg?t=1591664460"
   },
   {
-    "id": "332530",
-    "title": "Shutshimi",
-    "genres": ["Action", "Indie"],
-    "releaseDate": "Aug 25, 2015",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/332530/header.jpg?t=1655322038"
-  },
-  {
     "id": "288060",
     "title": "Whispering Willows",
     "genres": ["Adventure", "Indie"],
@@ -3179,25 +2576,11 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/288060/header.jpg?t=1634690435"
   },
   {
-    "id": "452930",
-    "title": "Insane",
-    "genres": ["Casual", "Indie", "Strategy"],
-    "releaseDate": "Mar 31, 2016",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/452930/header.jpg?t=1641984097"
-  },
-  {
     "id": "274190",
     "title": "Broforce",
     "genres": ["Action", "Adventure", "Casual", "Indie"],
     "releaseDate": "Oct 15, 2015",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/274190/header.jpg?t=1622676636"
-  },
-  {
-    "id": "3206420",
-    "title": "FUEL & FURY",
-    "genres": ["Action", "Adventure", "Indie"],
-    "releaseDate": "Oct 28, 2024",
-    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206420/header.jpg?t=1730274047"
   },
   {
     "id": "26800",
@@ -3268,13 +2651,6 @@
     "genres": ["Action", "Adventure", "Indie"],
     "releaseDate": "Mar 14, 2016",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/263980/header.jpg?t=1574484640"
-  },
-  {
-    "id": "1680500",
-    "title": "Roar of Revenge",
-    "genres": ["Action", "Adventure", "Indie"],
-    "releaseDate": "Oct 4, 2021",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1680500/header.jpg?t=1650024916"
   },
   {
     "id": "598700",
@@ -3515,13 +2891,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/404410/header.jpg?t=1588367550"
   },
   {
-    "id": "349890",
-    "title": "La-Mulana",
-    "genres": ["Action", "Adventure", "Indie"],
-    "releaseDate": "Apr 15, 2013",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/230700/header.jpg?t=1646127390"
-  },
-  {
     "id": "350070",
     "title": "Environmental Station Alpha",
     "genres": ["Action", "Adventure", "Indie"],
@@ -3634,13 +3003,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/363420/header.jpg?t=1648498366"
   },
   {
-    "id": "305640",
-    "title": "Shattered Planet",
-    "genres": ["Indie", "RPG", "Strategy"],
-    "releaseDate": "Jul 3, 2014",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/305640/header.jpg?t=1612279358"
-  },
-  {
     "id": "264690",
     "title": "Coin Crypt",
     "genres": ["Indie", "RPG"],
@@ -3653,13 +3015,6 @@
     "genres": ["Action", "RPG"],
     "releaseDate": "Jul 25, 2014",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/311480/header.jpg?t=1630518137"
-  },
-  {
-    "id": "269210",
-    "title": "Hero Siege",
-    "genres": ["Action", "Adventure", "Indie", "Massively Multiplayer", "RPG"],
-    "releaseDate": "Jan 29, 2014",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/269210/header.jpg?t=1628765735"
   },
   {
     "id": "269490",
@@ -3746,13 +3101,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/33100/header.jpg?t=1655832343"
   },
   {
-    "id": "2566230",
-    "title": "Little Dew Drop",
-    "genres": ["Adventure", "Casual", "Indie"],
-    "releaseDate": "Sep 8, 2023",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2566230/header.jpg?t=1694156739"
-  },
-  {
     "id": "356570",
     "title": "Party Hard",
     "genres": ["Action", "Indie", "Strategy"],
@@ -3788,13 +3136,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/98800/header.jpg?t=1560612990"
   },
   {
-    "id": "828660",
-    "title": "War Of The Zombie",
-    "genres": ["Simulation", "Strategy"],
-    "releaseDate": "Apr 4, 2018",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/828660/header.jpg?t=1575260510"
-  },
-  {
     "id": "200510",
     "title": "XCOM: Enemy Unknown",
     "genres": ["Strategy"],
@@ -3807,13 +3148,6 @@
     "genres": ["Adventure"],
     "releaseDate": "Oct 29, 2020",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1449690/header.jpg?t=1645232101"
-  },
-  {
-    "id": "214700",
-    "title": "Thirty Flights of Loving",
-    "genres": ["Adventure", "Casual", "Indie"],
-    "releaseDate": "Aug 20, 2012",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/214700/header.jpg?t=1638900313"
   },
   {
     "id": "207490",
@@ -3849,13 +3183,6 @@
     "genres": ["Action", "Racing"],
     "releaseDate": "Nov 16, 2018",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/808910/header.jpg?t=1586462324"
-  },
-  {
-    "id": "956280",
-    "title": "Joe's Wrath",
-    "genres": ["Action", "Adventure", "Casual", "Indie"],
-    "releaseDate": "Oct 29, 2018",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/956280/header.jpg?t=1544033881"
   },
   {
     "id": "1061090",
@@ -4010,13 +3337,6 @@
     "genres": ["Action", "Indie", "RPG"],
     "releaseDate": "Jul 21, 2016",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/252610/header.jpg?t=1572554134"
-  },
-  {
-    "id": "282560",
-    "title": "RollerCoaster Tycoon World™",
-    "genres": ["Simulation", "Strategy"],
-    "releaseDate": "Nov 16, 2016",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/282560/header.jpg?t=1633714616"
   },
   {
     "id": "1578650",
@@ -4192,13 +3512,6 @@
     "genres": ["Action", "Indie"],
     "releaseDate": "May 23, 2023",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2005010/header.jpg?t=1685030541"
-  },
-  {
-    "id": "462640",
-    "title": "Surf World Series",
-    "genres": ["Sports"],
-    "releaseDate": "Aug 30, 2017",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/462640/header.jpg?t=1573127050"
   },
   {
     "id": "270880",
