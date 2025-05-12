@@ -609,13 +609,6 @@
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/12120/header.jpg?t=1634144450"
   },
   {
-    "id": "12170",
-    "title": "Grand Theft Auto",
-    "genres": ["Action"],
-    "releaseDate": "Jan 4, 2008",
-    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/12170/header.jpg?t=1618852837"
-  },
-  {
     "id": "1466860",
     "title": "Age of Empires IV",
     "genres": ["Strategy"],
