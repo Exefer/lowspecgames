@@ -5739,5 +5739,208 @@
     "genres": ["Action"],
     "releaseDate": "Oct 20, 2011",
     "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/24240/header.jpg?t=1574898258"
+  },
+  {
+    "id": "394310",
+    "title": "Punch Club",
+    "genres": ["Indie", "RPG", "Strategy"],
+    "releaseDate": "Jan 8, 2016",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/394310/header.jpg?t=1596225127"
+  },
+  {
+    "id": "589590",
+    "title": "Kindergarten",
+    "genres": ["Violent", "Gore", "Adventure", "Indie"],
+    "releaseDate": "Jun 15, 2017",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/589590/header.jpg?t=1509051136"
+  },
+  {
+    "id": "1067850",
+    "title": "Kindergarten 2",
+    "genres": ["Adventure", "Indie"],
+    "releaseDate": "Jul 29, 2019",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1067850/header.jpg?t=1569821561"
+  },
+  {
+    "id": "550010",
+    "title": "Happy Room",
+    "genres": ["Action", "Indie", "Simulation"],
+    "releaseDate": "Dec 19, 2016",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/550010/header.jpg?t=1647542460"
+  },
+  {
+    "id": "22180",
+    "title": "Penumbra Overture",
+    "genres": ["Action", "Adventure", "Indie"],
+    "releaseDate": "Mar 6, 2009",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/22180/header.jpg?t=1617809968"
+  },
+  {
+    "id": "15300",
+    "title": "Tom Clancy's Ghost Recon®",
+    "genres": ["Action"],
+    "releaseDate": "Jul 15, 2008",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/15300/header.jpg?t=1447351361"
+  },
+  {
+    "id": "6220",
+    "title": "FlatOut",
+    "genres": ["Racing"],
+    "releaseDate": "Feb 2, 2007",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/6220/header.jpg?t=1570209735"
+  },
+  {
+    "id": "2990",
+    "title": "FlatOut 2™",
+    "genres": ["Racing"],
+    "releaseDate": "Dec 21, 2006",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2990/header.jpg?t=1570210036"
+  },
+  {
+    "id": "12360",
+    "title": "FlatOut: Ultimate Carnage",
+    "genres": ["Racing"],
+    "releaseDate": "Aug 26, 2008",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/12360/header.jpg?t=1570634248"
+  },
+  {
+    "id": "208400",
+    "title": "Avernum: Escape From the Pit",
+    "genres": ["Indie", "RPG", "Strategy"],
+    "releaseDate": "Apr 11, 2012",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/208400/header.jpg?t=1600892866"
+  },
+  {
+    "id": "285160",
+    "title": "LEGO® The Hobbit™",
+    "genres": ["Action", "Adventure"],
+    "releaseDate": "Apr 8, 2014",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/285160/header.jpg?t=1634923955"
+  },
+  {
+    "id": "332310",
+    "title": "LEGO® Worlds",
+    "genres": ["Adventure"],
+    "releaseDate": "Mar 7, 2017",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/332310/header.jpg?t=1637713521"
+  },
+  {
+    "id": "249130",
+    "title": "LEGO® Marvel™ Super Heroes",
+    "genres": ["Action", "Adventure"],
+    "releaseDate": "Oct 22, 2013",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/249130/header.jpg?t=1573497453"
+  },
+  {
+    "id": "352400",
+    "title": "LEGO® Jurassic World",
+    "genres": ["Action", "Adventure"],
+    "releaseDate": "Jun 11, 2015",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/352400/header.jpg?t=1634856291"
+  },
+  {
+    "id": "313690",
+    "title": "LEGO® Batman™ 3: Beyond Gotham",
+    "genres": ["Action", "Adventure"],
+    "releaseDate": "Nov 11, 2014",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/313690/header.jpg?t=1573510385"
+  },
+  {
+    "id": "219780",
+    "title": "Divinity II: Developer's Cut",
+    "genres": ["RPG"],
+    "releaseDate": "Oct 29, 2012",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/219780/header.jpg?t=1568735670"
+  },
+  {
+    "id": "242760",
+    "title": "The Forest",
+    "genres": ["Action", "Adventure", "Indie", "Simulation"],
+    "releaseDate": "Apr 30, 2018",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/242760/header.jpg?t=1590522045"
+  },
+  {
+    "id": "288160",
+    "title": "The Room",
+    "genres": ["Adventure", "Indie"],
+    "releaseDate": "Jul 28, 2014",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/288160/header.jpg?t=1646758287"
+  },
+  {
+    "id": "266840",
+    "title": "Age of Mythology: Extended Edition",
+    "genres": ["Simulation", "Strategy"],
+    "releaseDate": "May 8, 2014",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/266840/header.jpg?t=1620145994"
+  },
+  {
+    "id": "39200",
+    "title": "Dungeon Siege II",
+    "genres": ["RPG"],
+    "releaseDate": "Aug 16, 2005",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/39200/header.jpg?t=1592491309"
+  },
+  {
+    "id": "251470",
+    "title": "TowerFall Ascension",
+    "genres": ["Action", "Indie"],
+    "releaseDate": "Mar 11, 2014",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/251470/header.jpg?t=1617131982"
+  },
+  {
+    "id": "38400",
+    "title": "Fallout: A Post Nuclear Role Playing Game",
+    "genres": ["RPG"],
+    "releaseDate": "Nov 1, 2015",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/38400/header.jpg?t=1572025441"
+  },
+  {
+    "id": "38410",
+    "title": "Fallout 2: A Post Nuclear Role Playing Game",
+    "genres": ["RPG"],
+    "releaseDate": "Aug 19, 2009",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/38410/header.jpg?t=1572025546"
+  },
+  {
+    "id": "2824660",
+    "title": "Old School Rally",
+    "genres": ["Indie", "Racing", "Simulation", "Early Access"],
+    "releaseDate": "Jul 18, 2024",
+    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824660/header.jpg?t=1721338972"
+  },
+  {
+    "id": "1343370",
+    "title": "Old School RuneScape",
+    "genres": ["Adventure", "Free to Play", "Massively Multiplayer", "RPG"],
+    "releaseDate": "Feb 24, 2021",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1343370/header.jpg?t=1637205128"
+  },
+  {
+    "id": "342610",
+    "title": "HyperRogue",
+    "genres": ["Indie"],
+    "releaseDate": "Jan 16, 2015",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/342610/header.jpg?t=1647895375"
+  },
+  {
+    "id": "2435090",
+    "title": "Talented",
+    "genres": ["Action", "Indie", "Early Access"],
+    "releaseDate": "Oct 30, 2023",
+    "thumbnailUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2435090/header.jpg?t=1698851145"
+  },
+  {
+    "id": "3107330",
+    "title": "Nodebuster",
+    "genres": ["Casual", "Indie", "Simulation", "Strategy"],
+    "releaseDate": "Aug 13, 2024",
+    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107330/header.jpg?t=1723569896"
+  },
+  {
+    "id": "3191030",
+    "title": "Nubby's Number Factory",
+    "genres": ["Strategy"],
+    "releaseDate": "Mar 7, 2025",
+    "thumbnailUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191030/header.jpg?t=1742145780"
   }
 ]
